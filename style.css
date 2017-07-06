@@ -1,0 +1,42 @@
+body {
+    background: white;
+    font-family: 'Gruppo', cursive;
+    color: black;
+}
+.nav-pills {
+    font-size: 1.8em;
+    background-color: rgba(40, 179, 249, 0.6);
+    width: 100%;
+    position: fixed;
+    font-weight: bold;
+}
+
+#title {
+    font-size: 2em;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    color: black;
+    margin: -1em;
+}
+h2 {
+    font-size:1.8em;
+    color: black;
+    margin: 0.5em;
+}
+.thin-border {
+    border-color: rgb(142, 239, 220);
+    border-width: 0.1em;
+    border-style: solid;
+    border-left: -5em;
+}
+.smaller-image {
+    width: 22em;
+}
+figure {
+    position: relative;
+    right: 22em;
+}
+
