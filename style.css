@@ -35,8 +35,21 @@ h2 {
 .smaller-image {
     width: 22em;
 }
+.medium-image {
+
+}
 figure {
     position: relative;
     right: 22em;
 }
-
+figure2 {
+    position: relative;
+    text-align: center;
+}
+figure3 {
+    position: relative;
+    text-align: center;
+}
+#frm1_submit {
+    text-align: center;
+}
